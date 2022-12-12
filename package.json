@@ -1,0 +1,23 @@
+{
+  "name": "myfirstnodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lillypad92/MyFirstNodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lillypad92/MyFirstNodeProject/issues"
+  },
+  "homepage": "https://github.com/Lillypad92/MyFirstNodeProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
