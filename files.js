@@ -12,7 +12,7 @@ fs.readFile('./Docs/blog1.txt', (err, data) => {
 console.log('last line');
 
 //writing files
-fs.writeFile('./Docs/blog2.txt', 'hello, world', () => {
+fs.writeFile('./Docs/blog2.txt', 'good, bye', () => {
     console.log('file was written');
 })
 
